@@ -1,6 +1,6 @@
 # Python e Power BI: analisando dados do mercado financeiro
 
-Rápida descrição do objetivo de fazer esse projeto
+Desenvolver uma dashboard para análise do mercado financeiro utilizando Python e Power BI
 
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
